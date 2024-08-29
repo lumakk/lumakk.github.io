@@ -2,3 +2,76 @@ baseURL = 'https://lumakk.github.io/'
 languageCode = 'en-us'
 title = 'Mac Lozano'
 theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A Tech Blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hello there! 👋'
+homeIntroContent = """
+I am a Filipino computer science student and aspiring Software Engineer and Data Scientist.
+I am currently learning Database Management with PHP and MySQL for a Hackathon project!
+Also interested in learning about algorithms and data structures.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/mac-lozano-061b96312/"
+
+[[params.social]]
+name = "facebook"
+url = "https://www.facebook.com/lxzano"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/lumakk"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
