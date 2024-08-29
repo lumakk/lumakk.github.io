@@ -8,7 +8,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Personal website"
 
 # Appearance settings
 theme = 'auto'
