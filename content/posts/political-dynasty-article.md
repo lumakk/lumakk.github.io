@@ -1,6 +1,6 @@
 +++
 title = "Pamilyang pulitikal: dapat bang pagbawalan?"
-summary = 'A science article about the state of public transport in Manila, written in 2023 for  Volume 5 of The Junior Dawn'
+summary = 'Isang ulat tungkol sa pamilyang pulitikal sa bansa'
 date = 2024-10-26T04:29:09+08:00
 draft = false
 readTime = true
