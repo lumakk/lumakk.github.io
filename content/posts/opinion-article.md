@@ -8,7 +8,7 @@ tags = ["🚎Public Transit", "👤 Opinion", "📰 Student Publication"]
 showTags = true
 +++
 
-> Author's note: This was originally written for Volume 5 of The Junior Dawn, the official student publication of the University of the East - Caloocan Basic Education Department back in 2023, so I apologize for any grammatical errors and poor writing!    
+  
 
 Back in 2022, the Urban Mobility Readiness Index examined cities across the world and ranked them based on their public transit systems, which factored in commute speed, affordability, public transit station density, and the rate of utilization by the public, among others. After completing the report they concluded that among a total of 60 cities, Manila ranked 5th for having the world’s worst public transport system.
 
